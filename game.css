@@ -1,0 +1,180 @@
+body
+{
+	text-decoration: solid;
+	
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#output
+{
+   background-color: white;
+   border-radius: 10px;
+   border-top: 10px solid #AA4465;
+   padding: 10px;
+   float:none ;
+   text-align: left;
+}
+
+.login_div2:hover{
+	border: 5px solid rgb(10, 44, 233);
+	width: 35%;
+}
+.login_div1:hover{
+	border: 5px solid rgb(10, 44, 233);
+	width: 35%;
+}
+
+.button_send
+{
+	background-color: aqua;
+}
+
+#maths_quiz_title
+{
+   font-family:cursive;
+   background-color: red;
+
+}
+
+#player_question
+{
+	font-family: cursive;
+	font-size: 35px;
+	
+}
+
+#player_answer
+{
+	font-family: cursive;
+	font-size: 35px;
+}
+
+#number1
+{
+	font-family: cursive;
+	font-size: 20px;
+	
+}
+
+#number2
+{
+	font-family: cursive;
+	font-size: 20px;
+}
+
+#number1_title
+{
+	font-family: cursive;
+	font-size: 25px;
+}
+
+#number2_title
+{
+	font-family: cursive;
+	font-size: 25px;
+}
+
+#player1_name
+{
+	font-family: cursive;
+	font-size: 30;
+}
+
+#player1_score
+{
+	font-family: cursive;
+	font-size: 30;
+}
+
+#player2_name
+{
+	font-family: cursive;
+	font-size: 30;
+}
+
+#player2_score
+{
+	font-family: cursive;
+	font-size: 35;
+}
+
+#login_button
+{
+	background-color: aqua;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#player1_name_input
+{
+	font-family: cursive;
+	font-size: 20px;
+}
+
+#player2_name_input
+{
+	font-family: cursive;
+	font-size: 20px;
+}
+
+#player1_login_title
+{
+	font-family: cursive;
+	font-size: 25px;
+}
+
+#player2_login_title
+{
+	font-family: cursive;
+	font-size: 25px;
+}
+
+#user_name1
+{
+	font-family: cursive;
+	font-size: 15px;
+}
+
+#user_name2
+{
+	font-family: cursive;
+	font-size: 15px;
+}
+
+#button_send
+{
+	font-family: cursive;
+	font-size: 20px;
+	background-color: yellow;
+}
